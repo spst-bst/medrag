@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>10000001</PMID>
+      <Article>
+        <ArticleTitle>Dapagliflozin and outcomes in heart failure with reduced ejection fraction: a randomized trial</ArticleTitle>
+        <Journal>
+          <Title>New England Journal of Medicine</Title>
+          <JournalIssue>
+            <PubDate>
+              <Year>2019</Year>
+            </PubDate>
+          </JournalIssue>
+        </Journal>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Sodium-glucose cotransporter 2 inhibitors reduce the risk of cardiovascular death in patients with type 2 diabetes.</AbstractText>
+          <AbstractText Label="METHODS">We randomly assigned 4744 patients with heart failure and reduced ejection fraction to receive dapagliflozin or placebo.</AbstractText>
+          <AbstractText Label="RESULTS">Hospitalization for heart failure or cardiovascular death occurred in 16.3% of the dapagliflozin group versus 21.2% of the placebo group.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Dapagliflozin reduced the risk of worsening heart failure or death from cardiovascular causes.</AbstractText>
+        </Abstract>
+        <PublicationTypeList>
+          <PublicationType>Randomized Controlled Trial</PublicationType>
+          <PublicationType>Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName>Heart Failure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName>Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">10000001</ArticleId>
+        <ArticleId IdType="doi">10.1056/NEJMoa1911303</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>10000002</PMID>
+      <Article>
+        <ArticleTitle>Conference proceedings: cardiology abstracts 2020 (no abstract available)</ArticleTitle>
+        <Journal>
+          <Title>Journal of Cardiology Abstracts</Title>
+          <JournalIssue>
+            <PubDate>
+              <Year>2020</Year>
+            </PubDate>
+          </JournalIssue>
+        </Journal>
+        <PublicationTypeList>
+          <PublicationType>Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList />
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">10000002</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>10000003</PMID>
+      <Article>
+        <ArticleTitle>SGLT2 inhibitors in clinical practice: a narrative review</ArticleTitle>
+        <Journal>
+          <Title>Reviews in Cardiovascular Medicine</Title>
+          <JournalIssue>
+            <PubDate>
+              <Year>2021</Year>
+            </PubDate>
+          </JournalIssue>
+        </Journal>
+        <Abstract>
+          <AbstractText>SGLT2 inhibitors have emerged as a cornerstone therapy across the spectrum of heart failure, with benefits observed regardless of diabetes status. This review summarizes trial evidence and practical prescribing considerations.</AbstractText>
+        </Abstract>
+        <PublicationTypeList>
+          <PublicationType>Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName>Sodium-Glucose Transporter 2 Inhibitors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">10000003</ArticleId>
+        <ArticleId IdType="doi">10.1234/rcm.2021.0003</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>10000004</PMID>
+      <Article>
+        <ArticleTitle>Empagliflozin und β-Zell-Funktion: eine randomisierte Studie bei Patienten mit Typ-2-Diabetes — Zwischenergebnisse</ArticleTitle>
+        <Journal>
+          <Title>Diabetes &amp; Stoffwechsel</Title>
+          <JournalIssue>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+        </Journal>
+        <Abstract>
+          <AbstractText Label="HINTERGRUND">β-Zell-Dysfunktion spielt eine zentrale Rolle bei Typ-2-Diabetes; café-au-lait-farbene Hautveränderungen wurden bei 2 Teilnehmern dokumentiert.</AbstractText>
+          <AbstractText Label="ERGEBNISSE">Die Behandlung mit Empagliflozin führte zu einer signifikanten Verbesserung der β-Zell-Funktion (p &lt; 0{,}01), Δ = 12{,}4 % gegenüber Placebo.</AbstractText>
+        </Abstract>
+        <PublicationTypeList>
+          <PublicationType>Randomized Controlled Trial</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName>Diabetes Mellitus, Type 2</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">10000004</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>10000005</PMID>
+      <Article>
+        <ArticleTitle>Severe euglycemic diabetic ketoacidosis following SGLT2 inhibitor initiation: a case report</ArticleTitle>
+        <Journal>
+          <Title>Case Reports in Endocrinology</Title>
+          <JournalIssue>
+            <PubDate>
+              <MedlineDate>2019 Jan-Feb</MedlineDate>
+            </PubDate>
+          </JournalIssue>
+        </Journal>
+        <Abstract>
+          <AbstractText>We describe a 58-year-old patient who developed euglycemic diabetic ketoacidosis shortly after starting an SGLT2 inhibitor, highlighting the need for clinician awareness of this rare but serious adverse event.</AbstractText>
+        </Abstract>
+        <PublicationTypeList>
+          <PublicationType>Case Reports</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName>Diabetic Ketoacidosis</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">10000005</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+
+</PubmedArticleSet>

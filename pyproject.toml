@@ -1,0 +1,23 @@
+[project]
+name = "medrag"
+version = "0.1.0"
+description = "Local-first, evidence-citing literature Q&A proof of concept. Research support only, not medical advice."
+requires-python = ">=3.10"
+dependencies = [
+    "httpx",
+    "numpy",
+    "typer",
+    "rich",
+    "fastapi",
+    "uvicorn",
+]
+
+[project.scripts]
+medrag = "medrag.cli:app"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["medrag*"]

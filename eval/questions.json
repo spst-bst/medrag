@@ -1,0 +1,80 @@
+[
+  {
+    "id": "q01",
+    "question": "What does the evidence say about SGLT2 inhibitors in heart failure with reduced ejection fraction?",
+    "answerable": true,
+    "expected_pmids": ["42730804", "42518892", "42644019"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q02",
+    "question": "Which trials report hospitalization outcomes for SGLT2 inhibitors in heart failure?",
+    "answerable": true,
+    "expected_pmids": ["42591121", "42554537", "42740658", "42560763", "42770322"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q03",
+    "question": "What adverse events, including euglycemic ketoacidosis, are associated with SGLT2 inhibitors?",
+    "answerable": true,
+    "expected_pmids": ["42729904", "42694226", "42760177", "42587086", "42759692"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q04",
+    "question": "How do SGLT2 inhibitors affect kidney outcomes in chronic kidney disease (CKD)?",
+    "answerable": true,
+    "expected_pmids": ["42741446", "42560763", "42521293", "42778649"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q05",
+    "question": "What is known about SGLT2 inhibitor use in elderly or frail patients with heart failure?",
+    "answerable": true,
+    "expected_pmids": ["42694338", "42613674", "42524338", "42521604"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q06",
+    "question": "What mechanisms explain the cardioprotective effects of SGLT2 inhibitors, such as cardiac remodeling?",
+    "answerable": true,
+    "expected_pmids": ["42792704", "42730804", "42645205"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q07",
+    "question": "What does the evidence say about SGLT2 inhibitors combined with GLP-1 receptor agonists for cardiovascular or renal outcomes?",
+    "answerable": true,
+    "expected_pmids": ["42616235", "42802824", "42802242"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q08",
+    "question": "How do SGLT2 inhibitors perform in heart failure with preserved ejection fraction (HFpEF)?",
+    "answerable": true,
+    "expected_pmids": ["42800956", "42759294", "42553332", "42533465", "42586458"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q09",
+    "question": "What perioperative or periprocedural considerations apply to SGLT2 inhibitors around surgery?",
+    "answerable": true,
+    "expected_pmids": ["42759692", "42739811"],
+    "note": "auto-suggested, needs my review"
+  },
+  {
+    "id": "q10",
+    "question": "What does the evidence say about the efficacy of acupuncture for migraine prevention?",
+    "answerable": false
+  },
+  {
+    "id": "q11",
+    "question": "What is the recommended dosing of ibuprofen for postoperative dental pain in children?",
+    "answerable": false
+  },
+  {
+    "id": "q12",
+    "question": "Does intermittent fasting improve outcomes in early-stage Parkinson's disease?",
+    "answerable": false
+  }
+]
